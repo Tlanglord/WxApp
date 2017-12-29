@@ -23,7 +23,7 @@ Page({
       url: '../logs/logs'
     })
   },
-  bindJL(){
+  bindJL:function(){
     wx.navigateTo({
       url: '../jl/jian'
     })
