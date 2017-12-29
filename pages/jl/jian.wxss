@@ -1,0 +1,121 @@
+/* pages/jl/jian.wxss */
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0rpx;
+}
+
+.head {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.add-head {
+  width: 100rpx;
+  height: 100rpx;
+  margin-top: 20rpx;
+}
+
+.baseinfo-name {
+  margin-top: 20rpx;
+  font-size: 30rpx;
+}
+
+.baseinfo {
+  width: 100%;
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.baseinfo-item {
+  padding-left: 20rpx;
+  padding-top: 10rpx;
+  font-size: 30rpx;
+}
+
+/* 以下简用jobexpr */
+
+.jobexperience {
+  padding: 20rpx;
+}
+
+.jobexpr-title {
+  font-size: 36rpx;
+  color: #000;
+}
+
+.jobexpr-com {
+  font-size: 32rpx;
+  color: #333;
+}
+
+.jobexpr-time {
+  font-size: 30rpx;
+  color: #333;
+  margin-left: 100rpx;
+}
+
+.jobexpr-content {
+  font-size: 30rpx;
+  color: #333;
+}
+
+.jobexpr-jober {
+  font-size: 30rpx;
+  color: #333;
+}
+
+/*以下用proj  */
+
+.project {
+  padding: 20rpx;
+}
+
+.proj-title {
+  font-size: 36rpx;
+  color: #000;
+}
+
+.proj-name {
+  font-size: 30rpx;
+  color: #333;
+}
+
+.proj-jober {
+  font-size: 30rpx;
+  color: #333;
+}
+
+.proj-time {
+  font-size: 30rpx;
+  color: #333;
+  margin-left: 100rpx;
+}
+
+.proj-content {
+  font-size: 30rpx;
+  color: #333;
+}
+
+.ability {
+  padding: 20rpx;
+  margin: 0rpx；;
+}
+
+.ability-title {
+  font-size: 36rpx;
+  color: #000;
+}
+
+.ability-content {
+  font-size: 30rpx;
+  color: #333;
+}

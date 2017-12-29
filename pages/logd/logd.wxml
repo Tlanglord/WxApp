@@ -1,0 +1,2 @@
+<!--pages/logd.wxml-->
+<text bindtap='bindLogClick' data-log='{{log}}' >{{log}}</text>

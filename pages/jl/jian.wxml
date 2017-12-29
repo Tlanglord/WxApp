@@ -1,0 +1,38 @@
+<!--pages/jl/jian.wxml-->
+<view class='container'>
+  <view class='head'>
+    <image src='../../imgs/head.png' class='add-head'></image>
+    <text class='baseinfo-name'>小李</text>
+  </view>
+  <view class='baseinfo'>
+    <text class='baseinfo-item'>保密</text>
+    <text class='baseinfo-item'>18312345677</text>
+    <text class='baseinfo-item'>web开发</text>
+    <text class='baseinfo-item'>北京师范大学</text>
+  </view>
+  <view class='jobexperience'>
+    <text class='jobexpr-title'>工作经历</text>
+    <view>
+      <text class='jobexpr-com'>1、深圳科技有限责任公司</text>
+      <view>
+        <text class='jobexpr-jober'>产品经理</text>
+        <text class='jobexpr-time'>2015.6.9-2015.10.6</text>
+      </view>
+      <text class='jobexpr-content'>1.拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡\n2.拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉</text>
+    </view>
+  </view>
+  <view class='project'>
+    <text class='proj-title'>项目经验</text>
+    <view>
+      <text class='proj-jober'>产品经理</text>
+      <text class='proj-time'>2015.6.9-2015.10.6</text>
+    </view>
+    <text class='proj-content'>1.拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡\n2.拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉拉拉队卡拉</text>
+  </view>
+  <view class='ability'>
+    <text class='ability-title'>个人能力</text>
+     <view>
+      <text class='ability-content'>1、啊啊啊啊啊啊啊啊啊啊\n2、啊啊啊啊啊啊啊啊啊啊\n3、啊啊啊啊啊啊啊啊啊啊\n4、啊啊啊啊啊啊啊啊啊啊</text>
+    </view> 
+  </view>
+</view>
